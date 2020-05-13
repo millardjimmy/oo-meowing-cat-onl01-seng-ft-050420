@@ -7,5 +7,6 @@ def name
 end
 
 def meow
-  puts
+  puts "meow!"
+end
 
